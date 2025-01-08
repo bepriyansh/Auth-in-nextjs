@@ -8,7 +8,7 @@ const Page = () => {
       <div className="max-w-[350px] border rounded-lg p-8 flex flex-col gap-4">
         <LoginForm />
         <p>
-          Don't have an account ?{" "}
+          Do not have an account ?{" "}
           <Link href="/signup" className="text-blue-500">
             Create
           </Link>
